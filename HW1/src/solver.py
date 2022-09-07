@@ -22,3 +22,4 @@ def solve_quadratic_eq(a: Real, b: Real, c: Real) -> tuple:
     x2 = (-b - disc_sqrt) / (2 * a)
     result = (x1, x2)
     return result
+
